@@ -1,5 +1,23 @@
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 50px; /* bottom = footer height */
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
 .jumbotron { 
-    background-color: #2980b9; /* Orange */
+    background-color: #2980b9;
     color: #ffffff;
     padding: 100px 25px;
     margin-bottom: 0px;
@@ -12,7 +30,7 @@
 
 
 .container-fluid {
-    padding: 60px 50px;
+    padding: 50px 50px;
 }
 
 .custom-footer {
@@ -21,4 +39,8 @@
 
 .list-inline {
 	margin-bottom: 0px;
+}
+
+.img {
+	padding: 10px 10px;
 }
