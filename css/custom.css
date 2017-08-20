@@ -57,9 +57,14 @@ footer {
 }
 
 
-.custom-text {
+.white-text {
 	color: white;
 }
+
+.black-text {
+	color: black;
+}
+
 
 .container-fluid {
     padding: 40px 40px;
