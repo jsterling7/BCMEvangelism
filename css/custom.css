@@ -53,11 +53,12 @@ video {
     color: white;
     text-align: center;
     vertical-align: center;
-    padding-bottom: 160px;
+    padding-bottom: 200px;
+    padding-top: 20px;
 }
 
 .jumbotron {
-   background-image: url("../image/city.jpg");
+   background-image: url("../image/city2.jpg");
     background-color: #17234E;
     margin-bottom: 0;
     padding: 25px;
